@@ -1,0 +1,10 @@
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Grafo_csharp\obj\Debug\Grafo_csharp.csprojResolveAssemblyReference.cache
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Grafo_csharp\bin\Debug\Grafo_csharp.exe
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Grafo_csharp\bin\Debug\Grafo_csharp.pdb
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Grafo_csharp\obj\Debug\Grafo_csharp.exe
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Grafo_csharp\obj\Debug\Grafo_csharp.pdb
+C:\Users\Carlos\Desktop\Grafo\Grafo_csharp\obj\Debug\Grafo_csharp.exe
+C:\Users\Carlos\Desktop\Grafo\Grafo_csharp\obj\Debug\Grafo_csharp.pdb
+C:\Users\Carlos\Desktop\Grafo\Grafo_csharp\bin\Debug\Grafo_csharp.exe
+C:\Users\Carlos\Desktop\Grafo\Grafo_csharp\bin\Debug\Grafo_csharp.pdb
+C:\Users\Carlos\Desktop\Grafo\Grafo_csharp\obj\Debug\Grafo_csharp.csprojResolveAssemblyReference.cache

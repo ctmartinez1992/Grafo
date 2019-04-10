@@ -1,0 +1,45 @@
+D:\dotnet2_0_projectos\TM_TDG.WithDataSets\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+D:\dotnet2_0_projectos\client_WEB_MEU_TM_TDG.WithDataSets\TM_TDG.WithDataSets\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_WEB_MEU_TM_TDG.WithDataSets\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+D:\dev-dotnet\bin\Debug\TM_TDG.WithDataSets.dll
+D:\dev-dotnet\bin\Debug\TM_TDG.WithDataSets.pdb
+D:\dotnet2_0_projectos\client_WEB_MEU_TM_TDG.WithDataSets\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+D:\dotnet2_0_projectos\client_WEB_TM_TDG.WithDataSets\TM_TDG.WithDataSets\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_WEB_TM_TDG.WithDataSets\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+D:\dotnet2_0_projectos\client_WEB_TM_TDG.WithDataSets\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+D:\dotnet2_0_projectos\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+D:\dotnet2_0_projectos\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+D:\dotnet2_0_projectos\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.dll
+D:\dotnet2_0_projectos\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.pdb
+D:\dotnet2_0_projectos\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\Common.dll
+D:\dotnet2_0_projectos\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\Common.pdb
+C:\Users\losa\Desktop\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.dll
+C:\Users\losa\Desktop\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\losa\Desktop\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\Common.dll
+C:\Users\losa\Desktop\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\Common.pdb
+C:\Users\losa\Desktop\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\losa\Desktop\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+C:\Users\losa\Desktop\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\CarlaNunes\Desktop\Novo\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.csprojResolveAssemblyReference.cache
+C:\Users\CarlaNunes\Desktop\Novo\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.dll
+C:\Users\CarlaNunes\Desktop\Novo\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\CarlaNunes\Desktop\Novo\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\Common.dll
+C:\Users\CarlaNunes\Desktop\Novo\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\bin\Debug\Common.pdb
+C:\Users\CarlaNunes\Desktop\Novo\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+C:\Users\CarlaNunes\Desktop\Novo\client_WEB_TM_TDG_WithDataSetsV1\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\Diogo\Documents\Visual Studio 2012\WebSites\TrabalhoPratico\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.dll
+C:\Users\Diogo\Documents\Visual Studio 2012\WebSites\TrabalhoPratico\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\Diogo\Documents\Visual Studio 2012\WebSites\TrabalhoPratico\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+C:\Users\Diogo\Documents\Visual Studio 2012\WebSites\TrabalhoPratico\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\Diogo\Documents\Visual Studio 2012\WebSites\TrabalhoPratico\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Desktop\LAPR5\grafo\Website\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.dll
+C:\Users\Diogo\Desktop\LAPR5\grafo\Website\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\Diogo\Desktop\LAPR5\grafo\Website\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+C:\Users\Diogo\Desktop\LAPR5\grafo\Website\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\Diogo\Desktop\LAPR5\grafo\Website\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.csprojResolveAssemblyReference.cache
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Website\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.dll
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Website\TM_TDG.WithDataSets\bin\Debug\TM_TDG.WithDataSets.pdb
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Website\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+C:\Users\Nuno Cardoso\Desktop\Lapr5\Grafo\Website\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb

@@ -1,0 +1,5 @@
+D:\dev-dotnet\bin\Debug\TM_TDG.WithDataSets.dll
+D:\dev-dotnet\bin\Debug\TM_TDG.WithDataSets.pdb
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\TM_TDG.WithDataSets\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.dll
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\TM_TDG.WithDataSets\obj\Debug\TM_TDG.WithDataSets.pdb
